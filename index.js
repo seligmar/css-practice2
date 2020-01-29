@@ -1,5 +1,5 @@
-const body = document.getElementById('#root')
+const body = document.getElementById('root')
 
-const btn = document.querySelector('button')
+const btn = document.createElement('button')
 
 body.append(btn)
